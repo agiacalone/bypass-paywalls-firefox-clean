@@ -1,0 +1,10 @@
+{
+  "addons": {
+    "magnolia@12.34": {
+      "updates": [
+        { "version": "3.7.8.0",
+            "update_link": "https://github.com/bpc-clone/bpc_updates/releases/latest/download/bypass_paywalls_clean-3.7.8.0.xpi" }
+        ]
+    }
+  }
+}
