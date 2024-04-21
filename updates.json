@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "magnolia@12.34": {
+      "updates": [
+        { "version": "3.7.9.0",
+            "update_link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass_paywalls_clean-3.7.9.0.xpi" }
+        ]
+    },
+    "magnolia_limited_permissions@12.34": {
+      "updates": [
+        { "version": "3.7.9.0",
+            "update_link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass_paywalls_clean-3.7.9.0-custom.xpi" }
+        ]
+    }
+  }
+}

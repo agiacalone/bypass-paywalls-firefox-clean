@@ -1,0 +1,59 @@
+{
+  "Atlantico.fr": {
+    "domain": "atlantico.fr",
+    "allow_cookies": 1,
+    "block_regex": "\\.tonos\\.gjirafa\\.tech\\/init\\/access",
+    "block_host_perm_add": "gjirafa.tech",
+    "upd_version": "3.7.9.6"
+  },
+  "El País": {
+    "domain": "elpais.com",
+    "allow_cookies": 1,
+    "block_js_inline": "\\/verne\\.elpais\\.com\\/.+\\.html",
+    "block_regex": "(\\/elpais\\.com\\/arc\\/subs\\/p\\.min\\.js|cdn\\.ampproject\\.org\\/v\\d\\/amp-access-.+\\.js)",
+    "upd_version": "3.7.8.1"
+  },
+  "Le Revenu": {
+    "domain": "lerevenu.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.qiota\\.com",
+    "upd_version": "3.7.8.5"
+  },
+  "Las Vegas Review-Journal": {
+    "domain": "reviewjournal.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.reviewjournal\\.com\\/wp-content\\/plugins\\/.+\\/loader_prod\\.min\\.js",
+    "upd_version": "3.7.9.5"
+  },
+  "Le1Hebdo.fr": {
+    "domain": "le1hebdo.fr",
+    "allow_cookies": 1,
+    "block_regex": "\\.qiota\\.com",
+    "upd_version": "3.7.8.5"
+  },
+  "Piano.io (+ TinyPass)": {
+    "domain": "piano.io",
+    "allow_cookies": 1,
+    "block_regex_general": "\\/xbuilder\\/experience\\/execute",
+    "excluded_domains": ["piano.io", "asia.nikkei.com", "auto-swiat.pl", "businessinsider.com.pl", "forbes.pl", "hbr.org", "japantimes.co.jp", "komputerswiat.pl", "nacion.com", "newsweek.pl", "onet.pl"],
+    "upd_version": "3.7.9.4"
+  },
+  "Politico": {
+    "domain": "politico.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.tinypass\\.com",
+    "upd_version": "3.7.9.4"
+  },
+  "The Dispatch": {
+    "domain": "thedispatch.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.thedispatch\\.com\\/api\\/tinypass\\.min\\.js",
+    "upd_version": "3.7.9.4"
+  },
+  "The Intercept": {
+    "domain": "theintercept.com",
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io\\/",
+    "upd_version": "3.7.9.4"
+  }
+}
