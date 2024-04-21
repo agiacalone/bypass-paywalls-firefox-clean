@@ -1,20 +1,35 @@
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass-paywalls-chrome-clean-4.2.0.0.crx
 SHA-256           : 07efb746eb2cb94bf702d0e2d8c9d91fe4a88c23ce327397596f06237a48f259
 Modified Time     : 31-8-2025 19:22:43
 File Size         : 267.605
+=======
+Filename          : bypass-paywalls-chrome-clean-4.0.0.0-kiwi-custom.crx
+SHA-256           : 15ce0b3d360f2605a23eac7a43607e8d38c266becdf5b09163b6da5f2d45b530
+Modified Time     : 12-1-2025 21:35:39
+File Size         : 216.843
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : crx
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass-paywalls-chrome-clean-4.2.1.0.crx
 SHA-256           : 98776dbbad60ca89af696e5c86d34903d43ab63b4bcd684f41979ea5fe140c2e
 Modified Time     : 14-9-2025 19:41:33
 File Size         : 269.655
+=======
+Filename          : bypass-paywalls-chrome-clean-4.0.6.0.crx
+SHA-256           : 009a4175294b2cb689fcabf6e209e61a5ba887f7361ceb5709ec9d13aa6f3ee1
+Modified Time     : 2-3-2025 19:39:05
+File Size         : 232.351
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : crx
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass-paywalls-chrome-clean-4.2.1.7.crx
 SHA-256           : b71d089a889bb2afe294e48b391f854d2f72c2f3c1db1390e9276c6ba4ed68a6
 Modified Time     : 26-9-2025 12:14:03
@@ -35,50 +50,90 @@ Filename          : bypass-paywalls-chrome-clean-latest.crx
 SHA-256           : b71d089a889bb2afe294e48b391f854d2f72c2f3c1db1390e9276c6ba4ed68a6
 Modified Time     : 26-9-2025 12:14:03
 File Size         : 270.918
+=======
+Filename          : bypass-paywalls-chrome-clean-4.0.7.0.crx
+SHA-256           : 6097e49af1c936f10d59808ade4e2f62b26d0a28e728e0a642cc460cdc5a6b34
+Modified Time     : 9-3-2025 19:21:14
+File Size         : 233.745
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : crx
 ==================================================
 
 ==================================================
 Filename          : bypass-paywalls-chrome-clean-master.zip
+<<<<<<< HEAD
 SHA-256           : 8154b7d2d59e873437a406539b006ab73c2ca848f8902c7b130abb19143ffc4a
 Modified Time     : 26-9-2025 16:58:30
 File Size         : 279.952
+=======
+SHA-256           : e686a4b6cc70d1c638cab38ad0fdc6f48652c9baabfb525ce0dd9c6c1e801084
+Modified Time     : 21-3-2025 07:49:57
+File Size         : 242.185
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : zip
 ==================================================
 
 ==================================================
 Filename          : bypass-paywalls-firefox-clean-master.zip
+<<<<<<< HEAD
 SHA-256           : f6b0ddca1f730784dc8285a2e0326570c78f510c5cbb232a249934a274e281e1
 Modified Time     : 26-9-2025 16:58:39
 File Size         : 276.600
+=======
+SHA-256           : 5e276398d784e0b01364308fe5213ea4bded5978768e902792b3301eadca456a
+Modified Time     : 21-3-2025 07:50:05
+File Size         : 239.037
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : zip
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass_paywalls_clean-4.2.0.0-custom.xpi
 SHA-256           : 1837aec3590e6951c20770805e98848eead0a24865bc7010b8c86c0d1b2ff5cc
 Modified Time     : 31-8-2025 19:27:33
 File Size         : 273.956
+=======
+Filename          : bypass_paywalls_clean-4.0.6.0-custom.xpi
+SHA-256           : ddc53ebc738c693f794834b892beeb541a91104d224ff9ad75a7788665395264
+Modified Time     : 2-3-2025 19:50:52
+File Size         : 238.175
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : xpi
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass_paywalls_clean-4.2.0.0.xpi
 SHA-256           : 84c328dbb9416d51f906eab7988c1714864f0da554aef2b280b72d4690049457
 Modified Time     : 1-9-2025 15:21:43
 File Size         : 279.850
+=======
+Filename          : bypass_paywalls_clean-4.0.6.0.xpi
+SHA-256           : f4e530a37d72c96b37e76279e31925911da3309bbd5bbaf41a17e4b31a7e487f
+Modified Time     : 6-3-2025 11:20:24
+File Size         : 243.813
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : xpi
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass_paywalls_clean-4.2.1.0-custom.xpi
 SHA-256           : 5239cb01e5903edb442561d4797bc701530b5a4bf035d8cee023c3d408815e2a
 Modified Time     : 15-9-2025 18:00:44
 File Size         : 275.982
+=======
+Filename          : bypass_paywalls_clean-4.0.7.0-custom.xpi
+SHA-256           : 133ae8b9911594bc83d822c509b5c6839742c916628ce3a2a4809944aed5555d
+Modified Time     : 9-3-2025 19:31:39
+File Size         : 239.626
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : xpi
 ==================================================
 
 ==================================================
+<<<<<<< HEAD
 Filename          : bypass_paywalls_clean-4.2.1.0.xpi
 SHA-256           : 86bfc3b9e9c62899c4c333e40f4dfe6816b8b15d3a7ab088e1d541aadc34bc3f
 Modified Time     : 17-9-2025 14:48:23
@@ -99,14 +154,26 @@ Filename          : bypass_paywalls_clean-4.2.1.7.xpi
 SHA-256           : 7437cbc0deddc63c4ef29f0e6b4dabbb1f939dff033111f745a9d3ac0a6fe810
 Modified Time     : 26-9-2025 12:13:37
 File Size         : 283.284
+=======
+Filename          : bypass_paywalls_clean-4.0.7.0.xpi
+SHA-256           : 7de4ed110771380dac22eecf07806c9638f0a3237cc8867da57ad0fc07a9c8c3
+Modified Time     : 18-3-2025 11:23:32
+File Size         : 245.272
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : xpi
 ==================================================
 
 ==================================================
 Filename          : bypass_paywalls_clean-latest.xpi
+<<<<<<< HEAD
 SHA-256           : 7437cbc0deddc63c4ef29f0e6b4dabbb1f939dff033111f745a9d3ac0a6fe810
 Modified Time     : 26-9-2025 12:13:37
 File Size         : 283.284
+=======
+SHA-256           : 7de4ed110771380dac22eecf07806c9638f0a3237cc8867da57ad0fc07a9c8c3
+Modified Time     : 18-3-2025 11:23:32
+File Size         : 245.272
+>>>>>>> ab90756 (Release latest (support only))
 Extension         : xpi
 ==================================================
 
